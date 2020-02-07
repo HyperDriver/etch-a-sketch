@@ -1,0 +1,30 @@
+.container
+{
+    display: flex;
+    flex-direction: column;
+    width: 512px;
+    height: 512px;
+    margin: 0 auto;
+}
+
+.row
+{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.item
+{   
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
+
+.btn_reset
+{
+    margin-left: 31vw;
+    margin-bottom: 2vh;
+}
+
+
